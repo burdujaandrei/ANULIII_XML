@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="works.xsl"?>
+<list>
+	<listitem>
+		<hyperlink>
+			<url>load.php</url>
+			<name>Load session data</name>
+			<target></target>
+		</hyperlink>
+	</listitem>
+
+	<listitem>
+		<hyperlink>
+			<url>view.php</url>
+			<name>View session data</name>
+			<target></target>
+		</hyperlink>
+	</listitem>
+
+	<listitem>
+		<hyperlink>
+			<url>delete.php</url>
+			<name>Delete session data</name>
+			<target></target>
+		</hyperlink>
+	</listitem>
+</list>
